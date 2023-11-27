@@ -13,6 +13,10 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/kazoottt/bookmarks' }
-    ]
+    ],
+
+    search: {
+      provider: 'local'
+    }
   }
 })
