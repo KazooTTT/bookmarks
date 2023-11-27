@@ -3,23 +3,17 @@
 layout: home
 
 hero:
-  name: "bookmarks"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "KazooTTT的书签"
+  tagline: 一些我常用的网站
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 图标库
+      link: /icons
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 图标库
+    details: 图标库
+    link: /icons
+    icon: 🔥
 ---
 
